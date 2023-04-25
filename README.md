@@ -2,7 +2,7 @@
 
 <img alt="desafioLatam" src="https://desafiolatam.com/atencion-remota/assets/img/logo-black.png" width="500" />
 
-# Desafios del Bootcam / Desafio Latam ⚛️
+# Bootcamp Desafio Latam ⚛️
 
 </div>
 

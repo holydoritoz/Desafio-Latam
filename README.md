@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="desafioLatam" src="https://desafiolatam.com/atencion-remota/assets/img/logo-black.png" width="500" />
+<img alt="desafioLatam" src="https://blog.desafiolatam.com/wp-content/uploads/2015/03/desafio-latam-logonegro.png" width="500" />
 
 # Bootcamp Desafio Latam ⚛️
 

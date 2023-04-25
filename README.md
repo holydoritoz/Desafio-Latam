@@ -37,3 +37,63 @@ Crea páginas web que puedan consumir datos de diversas API y mostrar los result
 Materias: Javascript, Condiciones, Ciclos, Funciones, Arrays, Objetos, Programación funcional, Consumo de APIs, Promesas, Async Await, Manejo de errores.
 
 Desafió Modulo 3 → ❌
+
+---------------------------------------------
+
+Módulo 4
+React I
+Duración: 4 Semanas
+Lleva tus conocimientos de JavaScript a otro nivel aprendiendo la tecnología de desarrollo Front-End más demandada en el campo laboral. Con React serás capaces de desarrollar sistemas web basados en componentes aplicando sus prácticas y herramientas más modernas.
+
+Materias: Componentes funcionales, JSX, Props, Estados, Render, condicional, Hooks, useState, useEffect, Consumo de APIs.
+
+Desafió Modulo 4 → ❌
+
+---------------------------------------------
+
+
+Módulo 5
+React II
+Duración: 4 Semanas
+Crea Aplicaciones Web y/o SPAs que sean capaces de interactuar y manipular información obtenida a través de APIs.
+
+Materias: React, Router, Prop, Drilling, Context, High Order Components, SPAs, useNavigate, useParams.
+
+Desafió Modulo 5 → ❌
+
+---------------------------------------------
+
+Módulo 6
+Introducción a las bases de datos PostgreSQL
+Duración: 4 Semanas
+Aprenderás el rol que juegan las bases de datos relacionales dentro del almacenamiento y recuperación de datos para ser procesados, así como su base para el desarrollo de aplicaciones.
+
+Materias: SQL, Select, Where, Count, Having, Joins, Creación de tablas, Modelado de relaciones, Índices, PK, FK, Constraints, PostgreSQL.
+
+Desafió Modulo 6 → ❌
+
+---------------------------------------------
+
+Módulo 7
+Backend con Node y Express
+Duración: 7 Semanas
+Crea una API REST con autenticación via JWT persistiendo los datos en una base de datos PostgreSQL
+
+Materias: Node Express, Parametrización de consultas, API REST, Middlewares, CORS, CRUD, HATEOAS, Autenticación con JWT Testing.
+ 
+Desafió Modulo 6 → ❌
+
+---------------------------------------------
+
+Módulo 8
+Proyecto Full Stack
+Duración: 5 Semanas
+Levantar requerimientos a partir de una problemática, construyendo historias de usuario utilizando Trello o Asana, para definir el flujo de trabajo en el proceso de creación. Realizando el modelo conceptual y lógico de negocio. Desarrollando el modelo de negocio de nuestra app, utilizando Express Framework. Incorporaremos servicios externos a la app construida, servicio de mailing y autenticación con gmail para finalmente generar un Deploy.
+
+Materias: Ideación, Desarrollo, Implementación, Deploy, Presentación.
+
+Desafió Modulo 8 → ❌
+
+
+
+

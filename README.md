@@ -2,7 +2,7 @@
 
 <img alt="desafioLatam" src="https://blog.desafiolatam.com/wp-content/uploads/2015/03/desafio-latam-logonegro.png" width="500" />
 
-# Bootcamp Desafio Latam ⚛️
+# Bootcamp Desafio_Latam ⚛️
 
 </div>
 

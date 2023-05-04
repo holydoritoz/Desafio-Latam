@@ -25,7 +25,7 @@ Profundiza tus conocimientos de CSS utilizando Flexbox y CSS Grid para construir
 
 Materias: Flexbox CSS Grid, Responsive Design, Transiciones de CSS, Transformaciones de CSS, Animaciones de CSS
 
-Desafió Modulo 2 → ❌
+Desafió Modulo 1 → Landing page CSS ✅
 
 ---------------------------------------------
 

@@ -8,9 +8,6 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
     Geneva, Verdana, sans-serif;
   background-color: aliceblue;
-  display: flex;
-  flex-direction: column;
-
 }
 
 header {
@@ -18,14 +15,10 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 10px;
   padding: 5em;
   font-size: 2em;
-  background-color: #2e2d2d;
-}
-
-header img {
-  width: 100px;
+  background: #2e2d2d url("../img/header.png") no-repeat right center;
+  background-size: 25%;
 }
 
 h1 strong {
@@ -38,7 +31,6 @@ p {
   font-weight: 200;
   color: rgb(141, 120, 120);
 }
-
 
 .products {
   width: 70%;
@@ -57,11 +49,11 @@ p {
 
 footer {
   display: flex;
-  background-color: #2e2d2d;
-  color: white;
   justify-content: center;
   align-items: center;
   height: 40px;
+  background-color: #2e2d2d;
+  color: white;
 }
 
 footer img {

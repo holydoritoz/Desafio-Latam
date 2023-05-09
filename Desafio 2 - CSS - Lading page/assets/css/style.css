@@ -5,55 +5,54 @@
 }
 
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
-    Geneva, Verdana, sans-serif;
-  background-color: aliceblue;
+  display: inline;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   padding: 5em;
   font-size: 2em;
-  background: #2e2d2d url("../img/header.png") no-repeat right center;
+  background-color: #2e2d2d;
+  background-image: url(../img/header.png);
+  background-repeat: no-repeat;
+  background-position: right;
   background-size: 25%;
 }
 
-h1 strong {
-  color: white;
-}
-
-.header h1,
+header h1,
 p {
   margin: auto;
   font-weight: 200;
   color: rgb(141, 120, 120);
 }
 
-.products {
+header h1 strong {
+  color: white;
+}
+
+.main-products {
   width: 70%;
   margin: auto;
 }
 
-.products td {
+.main-products td {
   width: 50%;
   padding: 2em;
 }
 
-.products img {
+.main-products img {
   width: 50%;
   border: solid 1px #ddd;
 }
 
 footer {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 40px;
+  height: auto;
   background-color: #2e2d2d;
-  color: white;
 }
 
 footer img {

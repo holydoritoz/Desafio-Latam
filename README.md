@@ -15,7 +15,10 @@ Aprende los fundamentos de la construcción de un sitio web, los lenguajes bási
 
 Materias: HTML, CSS, Modelos de caja, Bootstrap 5, Terminal GIT GITHUB, GITHUB Pages
 
-Desafió Modulo 1 → Curriculum Vitae en HTML ✅
+Desafio  1 → Curriculum Vitae en HTML ✅
+Desafio  2 → Landin page CSS ✅
+Desafio  3 → Iguana page CSS - flex box ✅
+
 
 ---------------------------------------------
 Módulo 2
@@ -25,7 +28,7 @@ Profundiza tus conocimientos de CSS utilizando Flexbox y CSS Grid para construir
 
 Materias: Flexbox CSS Grid, Responsive Design, Transiciones de CSS, Transformaciones de CSS, Animaciones de CSS
 
-Desafió Modulo 1 → Landing page CSS ✅
+Desafió Modulo 2→ ❌
 
 ---------------------------------------------
 

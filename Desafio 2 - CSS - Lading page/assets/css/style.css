@@ -5,7 +5,6 @@
 }
 
 body {
-  display: inline;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
@@ -24,26 +23,32 @@ header h1,
 p {
   margin: auto;
   font-weight: 200;
-  color: rgb(141, 120, 120);
+  color: rgb(153, 122, 122);
 }
 
 header h1 strong {
   color: white;
 }
 
-.main-products {
-  width: 70%;
-  margin: auto;
+.products-list {
+  display: flex;
+  flex-direction: column;
 }
 
-.main-products td {
-  width: 50%;
-  padding: 2em;
+.product-card {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+  margin-left: 20px;
 }
 
-.main-products img {
-  width: 50%;
-  border: solid 1px #ddd;
+.product-image img {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.product-price {
+  padding: 50px;
 }
 
 footer {

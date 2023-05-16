@@ -12,53 +12,44 @@
   <body>
     <!-- Encabezado de nuestra landing page-->
 
-    <header>
+    <header">
       <h1><strong>Happy</strong>Donuts</h1>
       <p>La tentación perfecta!</p>
     </header>
 
     <!-- Seccion de productos principales-->
 
-    <section class="main-products">
-      <table>
-        <tr>
-          <td>
-            <img
-              src="./assets/img/item1.jpg"
-              alt="tres donas con glaseado azul y chispas de colores"
-            />
-          </td>
-          <td>
-            <p>Dona Normal</p>
-            <p>Precio: $1.300</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="./assets/img/item2.jpg"
-              alt="seis donas simples con glaseados y topping mixtos"
-            />
-          </td>
-          <td>
-            <p>Dona rellena</p>
-            <p>Precio: $2.800</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="./assets/img/item3.jpg"
-              alt="diez donas rellenas con glaseado personalizado y topping mixtos "
-            />
-          </td>
-          <td>
-            <p>Super Dona</p>
-            <p>Precio: $3.400</p>
-          </td>
-        </tr>
-      </table>
-    </section>
+    <main class="products-list">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="./assets/img/item1.jpg" alt="item1" />
+        </div>
+        <div class="product-price">
+          <p>Dona Simple</p>
+          <p>CLP 3.500</p>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-image">
+          <img src="./assets/img/item2.jpg" alt="item2" />
+        </div>
+        <div class="product-price">
+          <p>Dona Rellena</p>
+          <p>CLP 5.990</p>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-image">
+          <img src="./assets/img/item3.jpg" alt="item3" />
+        </div>
+        <div class="product-price">
+          <p>Dona Premium</p>
+          <p>CLP 7.990</p>
+        </div>
+      </div>
+    </main>
 
     <!-- Sección footer -->
 

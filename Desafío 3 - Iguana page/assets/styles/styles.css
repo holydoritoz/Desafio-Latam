@@ -21,7 +21,6 @@ header {
   align-items: center;
   width: 100vw;
   height: 73px;
-  background-color: #000000;
 }
 
 header h1 {
@@ -37,7 +36,6 @@ main img {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #000000;
   width: 100vw;
   height: 348px;
 }
